@@ -1,0 +1,90 @@
+C:\Users\Nutcache\Documents\Allari2\SSE Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nutcache\Documents\Allari2\SSE Project\bin\Debug\net6.0\appsettings.json
+C:\Users\Nutcache\Documents\Allari2\SSE Project\bin\Debug\net6.0\SSE Project.staticwebassets.runtime.json
+C:\Users\Nutcache\Documents\Allari2\SSE Project\bin\Debug\net6.0\SSE Project.exe
+C:\Users\Nutcache\Documents\Allari2\SSE Project\bin\Debug\net6.0\SSE Project.deps.json
+C:\Users\Nutcache\Documents\Allari2\SSE Project\bin\Debug\net6.0\SSE Project.runtimeconfig.json
+C:\Users\Nutcache\Documents\Allari2\SSE Project\bin\Debug\net6.0\SSE Project.dll
+C:\Users\Nutcache\Documents\Allari2\SSE Project\bin\Debug\net6.0\SSE Project.pdb
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\SSE Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\SSE Project.AssemblyInfoInputs.cache
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\SSE Project.AssemblyInfo.cs
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\SSE Project.csproj.CoreCompileInputs.cache
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\SSE Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\SSE Project.RazorAssemblyInfo.cache
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\SSE Project.RazorAssemblyInfo.cs
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\staticwebassets\msbuild.SSE Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\staticwebassets\msbuild.build.SSE Project.props
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SSE Project.props
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SSE Project.props
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\scopedcss\bundle\SSE Project.styles.css
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\scopedcss\projectbundle\SSE Project.bundle.scp.css
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\SSE Project.dll
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\refint\SSE Project.dll
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\SSE Project.pdb
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\SSE Project.genruntimeconfig.cache
+C:\Users\Nutcache\Documents\Allari2\SSE Project\obj\Debug\net6.0\ref\SSE Project.dll
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\SSE Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\SSE Project.AssemblyInfoInputs.cache
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\SSE Project.AssemblyInfo.cs
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\SSE Project.csproj.CoreCompileInputs.cache
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\SSE Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\SSE Project.RazorAssemblyInfo.cache
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\SSE Project.RazorAssemblyInfo.cs
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\SSE Project.dll
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\refint\SSE Project.dll
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\SSE Project.pdb
+C:\Users\Nutcache\Documents\Allari2\backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nutcache\Documents\Allari2\backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Nutcache\Documents\Allari2\backend\bin\Debug\net6.0\SSE Project.staticwebassets.runtime.json
+C:\Users\Nutcache\Documents\Allari2\backend\bin\Debug\net6.0\SSE Project.exe
+C:\Users\Nutcache\Documents\Allari2\backend\bin\Debug\net6.0\SSE Project.deps.json
+C:\Users\Nutcache\Documents\Allari2\backend\bin\Debug\net6.0\SSE Project.runtimeconfig.json
+C:\Users\Nutcache\Documents\Allari2\backend\bin\Debug\net6.0\SSE Project.dll
+C:\Users\Nutcache\Documents\Allari2\backend\bin\Debug\net6.0\SSE Project.pdb
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\staticwebassets\msbuild.SSE Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\staticwebassets\msbuild.build.SSE Project.props
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SSE Project.props
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SSE Project.props
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\scopedcss\bundle\SSE Project.styles.css
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\scopedcss\projectbundle\SSE Project.bundle.scp.css
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\SSE Project.genruntimeconfig.cache
+C:\Users\Nutcache\Documents\Allari2\backend\obj\Debug\net6.0\ref\SSE Project.dll
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\bin\Debug\net6.0\SSE Project.staticwebassets.runtime.json
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\bin\Debug\net6.0\SSE Project.exe
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\bin\Debug\net6.0\SSE Project.deps.json
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\bin\Debug\net6.0\SSE Project.runtimeconfig.json
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\bin\Debug\net6.0\SSE Project.dll
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\bin\Debug\net6.0\SSE Project.pdb
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\SSE Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\SSE Project.AssemblyInfoInputs.cache
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\SSE Project.AssemblyInfo.cs
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\SSE Project.csproj.CoreCompileInputs.cache
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\SSE Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\SSE Project.RazorAssemblyInfo.cache
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\SSE Project.RazorAssemblyInfo.cs
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\staticwebassets\msbuild.SSE Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\staticwebassets\msbuild.build.SSE Project.props
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SSE Project.props
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SSE Project.props
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\scopedcss\bundle\SSE Project.styles.css
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\scopedcss\projectbundle\SSE Project.bundle.scp.css
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\SSE Project.dll
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\refint\SSE Project.dll
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\SSE Project.pdb
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\SSE Project.genruntimeconfig.cache
+C:\Users\Nutcache\Documents\Nova pasta\Allari\backend\obj\Debug\net6.0\ref\SSE Project.dll
