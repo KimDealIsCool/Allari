@@ -13,7 +13,7 @@ Node.js and npm - Make sure you have Node.js and npm installed.
 ## Getting Started
 Clone this repository to your local machine:
 
-`git clone https://github.com/YourUsername/YourRepository.git`
+`git clone https://github.com/KimDealIsCool/Allari.git`
 
 Navigate to the backend folder, which contains the ASP.NET Core solution:
 
